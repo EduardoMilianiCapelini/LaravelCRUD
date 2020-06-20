@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\app\\Models",
+    "\\public",
+    "\\public\\assets",
+    "\\public\\assets\\js",
+    "\\resources",
+    "\\resources\\views",
+    "\\resources\\views\\templates",
+    "\\routes"
+  ],
+  "SelectedNode": "\\public\\assets\\js\\javascriptreal.js",
+  "PreviewInSolutionExplorer": false
+}

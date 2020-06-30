@@ -5,12 +5,13 @@
     "\\app\\Models",
     "\\public",
     "\\public\\assets",
+    "\\public\\assets\\bootstrap",
     "\\public\\assets\\js",
     "\\resources",
     "\\resources\\views",
     "\\resources\\views\\templates",
     "\\routes"
   ],
-  "SelectedNode": "\\public\\assets\\js\\javascriptreal.js",
+  "SelectedNode": "\\resources\\views\\create.blade.php",
   "PreviewInSolutionExplorer": false
 }
